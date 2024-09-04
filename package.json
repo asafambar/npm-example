@@ -1,0 +1,15 @@
+{
+  "name": "curation_malicoues_npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies":{
+	"cors.js": "^0.0.1-security",
+        "lodash": "4.17.20"
+  }
+}
